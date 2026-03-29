@@ -15,10 +15,8 @@ Monterrey faces a particularly critical air quality challenge, as heavy industry
 ## Repository Structure
 
 ```
-├── Code
-    ├── TimeSeries_Final_Project_PM10.ipynb   
-├── data
-    ├── stations_daily.csv                   
+├── TimeSeries_Final_Project_PM10.ipynb   
+├── stations_daily.csv                   
 ├── README.md
 ├── requirements.txt                         
 ```
