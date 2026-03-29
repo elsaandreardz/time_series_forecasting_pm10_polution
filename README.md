@@ -3,6 +3,7 @@ This repo is for academic purposes, as it is part of the final project of the Ti
 
 **Author:** Elsa Andrea Rodríguez, Student ID: 2500008  
 **Course:** Time Series Analysis (Final Project)
+**Source:** [Kaggle — Mexico Hourly Air Pollution (2010–2021)](https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset)
 
 ## Project Overview
 
@@ -15,8 +16,7 @@ Monterrey faces a particularly critical air quality challenge, as heavy industry
 ## Repository Structure
 
 ```
-├── TimeSeries_Final_Project_PM10.ipynb   
-├── stations_daily.csv                   
+├── TimeSeries_Final_Project_PM10.ipynb                    
 ├── README.md
 ├── requirements.txt                         
 ```
